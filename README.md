@@ -1,6 +1,6 @@
-# Drone Network Config Generator
+# FlyIn Map Generator
 
-Generates drone-network configuration files from real-world street maps using OpenStreetMap data. Given a place name, it downloads the road network, assigns capacity tiers to roads, names every intersection hub, and outputs a ready-to-use `.txt` config.
+Generates drone-network configuration files usable in 42 FlyInfrom real-world street maps using OpenStreetMap data. Given a place name, it downloads the road network, assigns capacity tiers to roads, names every intersection hub, and outputs a ready-to-use `.txt` config.
 
 ## Requirements
 
