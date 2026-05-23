@@ -72,3 +72,11 @@ connection: start_Bahnhofstrasse-Hauptstrasse_via_1 [max_link_capacity=2]
 ...
 ```
 
+## Examples 
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](germany.png)
+
