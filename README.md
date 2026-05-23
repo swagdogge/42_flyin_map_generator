@@ -24,7 +24,7 @@ python generator.py
 
 You will be prompted for:
 
-Region(s) | One or more place names, comma-separated (e.g. `Waiblingen, Germany`) Default: — 
+Region(s) | One or more place names, comma-separated (e.g. `Pforzheim, Landkreis Pforzheim`) Default: — 
 Number of drones | Fleet size written into the config header Default: `5` 
 Max hub spacing | Maximum distance (metres) between hubs on a single road segment  Default: `500` 
 
