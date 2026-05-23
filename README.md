@@ -2,6 +2,11 @@
 
 Generates drone-network configuration files usable in 42 FlyInfrom real-world street maps using OpenStreetMap data. Given a place name, it downloads the road network, assigns capacity tiers to roads, names every intersection hub, and outputs a ready-to-use `.txt` config.
 
+The hugest file Ive ever created with (a modified version of) this generator is a map of the entire road network of germany.
+https://drive.google.com/file/d/16rTD9AYOjF1LhhQdpgEEyGtVfNhHhhsN/view?usp=sharing
+(Warning: Huge file, Very huge file)
+
+
 ## Requirements
 
 ```
@@ -66,3 +71,4 @@ hub: Hauptstrasse_via_1 4525 3852 [zone=normal color=blue max_drones=2]
 connection: start_Bahnhofstrasse-Hauptstrasse_via_1 [max_link_capacity=2]
 ...
 ```
+
