@@ -85,4 +85,4 @@ download: https://drive.google.com/file/d/16rTD9AYOjF1LhhQdpgEEyGtVfNhHhhsN/view
 ## AI USAGE
 AI was used to generate large parts of this program.
 The program is intended to be used to generate cool looking maps or stress tests
-for the Fly-In projectt.
+for the Fly-In projectt to use for evaluations or showcaseing your own Fly-In project.
